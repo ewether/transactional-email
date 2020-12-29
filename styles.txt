@@ -1,0 +1,26 @@
+Main light blue
+#d1edee
+
+Main red
+#eb1700
+
+Receipt text - first
+#767676
+Receipt text - second
+#666666
+Receipt text - red
+#ff2f07
+
+Second blue
+#a1d8d9
+
+Third blue
+#004a4f
+
+Footer grey
+#f4f4f4
+Footer text
+#ababab
+
+Random highlight color
+#ffc
